@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a CMakeFiles/common.dir/src/app_cli.c.o CMakeFiles/common.dir/src/app_socket.c.o
+/usr/bin/ranlib libcommon.a

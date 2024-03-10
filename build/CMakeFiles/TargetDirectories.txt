@@ -1,0 +1,8 @@
+/home/duki/Materials/Project(s)/linux_chat_application/build/CMakeFiles/edit_cache.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/CMakeFiles/rebuild_cache.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/common/CMakeFiles/common.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/common/CMakeFiles/edit_cache.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/common/CMakeFiles/rebuild_cache.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/main/CMakeFiles/MyApp.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/main/CMakeFiles/edit_cache.dir
+/home/duki/Materials/Project(s)/linux_chat_application/build/main/CMakeFiles/rebuild_cache.dir
