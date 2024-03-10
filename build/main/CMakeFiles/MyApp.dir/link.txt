@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/MyApp.dir/app.c.o -o ../MyApp  ../common/libcommon.a 
